@@ -81,4 +81,5 @@ input[type="email"] {
     color: orangered;
     display: block;
     padding-top: 5px;
+    /* visibility: hidden; */
 }
